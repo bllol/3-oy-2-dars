@@ -1,0 +1,5 @@
+git init => initialize
+git add index.html => index.html ni github ga jo'natish uchun qo'shadi
+git rm --cached index.html => index.html ni github ga jo'natishlar safidan chiqazadi
+git add . => barcha fayllarni qo'shadi
+git commit -m "Something" => qilgan o'zgarishlarni commentariyada qoldirib ketish uchun
